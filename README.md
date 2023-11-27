@@ -16,7 +16,7 @@ E-mail:<br>
 - Windows Server, Linux
 - UniFi Network
 - Docker, Kubernetes
-
+- and more 😄
 
 ### Experience:
 
