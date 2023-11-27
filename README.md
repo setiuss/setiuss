@@ -1,43 +1,54 @@
 ### Hi there 👋
 
-Oleksandr Zaspa
-42 year old
-Phone:
-E-mail:
+## Oleksandr Zaspa
+*42 year old*<br>
+Phone:<br>
+E-mail:<br>
 
-Skills:
+### Skills:
 
-Experience:
+- MS AD, DNS, DHCP e.t.c.
+- MS Echange
+- MS SQL
+- MS RDS
+- MS 365 admin center 
+- Virtual Data Centers, VMware vSphere, ESXi
+- Windows Server, Linux
+- UniFi Network
+- Docker, Kubernetes
 
-05.2018 y. - 09.2023 y.
-Leading Infrastructure Solutions Specialist
-Autotrading AG LLC
 
-04.2018 y. - present
-Entrepreneur
-Work for myself 
+### Experience:
 
-08.2014 y. - 05.2018 y.
-Leading specialist in service support (System Administrator)
-Entrepreneur Alekseenko SP 
+05.2018 y. - 09.2023 y.<br>
+Leading Infrastructure Solutions Specialist<br>
+Autotrading AG LLC<br>
 
-02.2007 y. - 08.2014 y.
-Leading specialist in service support (System Administrator)
-Atoll Holding PrJSC 
+04.2018 y. - present<br>
+Entrepreneur<br>
+Work for myself<br>
 
-04.2005 y. - 02.2007 y.
-System engineer
-ForceIT LLC 
+08.2014 y. - 05.2018 y.<br>
+Leading specialist in service support (System Administrator)<br>
+Entrepreneur Alekseenko SP<br>
 
-10.2002 y. - 03.2005 y.
-Administrator computer club 
-Entrepreneur Sabluk VK 
+02.2007 y. - 08.2014 y.<br>
+Leading specialist in service support (System Administrator)<br>
+Atoll Holding PrJSC<br>
 
-Education:
+04.2005 y. - 02.2007 y.<br>
+System engineer<br>
+ForceIT LLC<br>
 
-1998 - 2003
-Economist in finance
-KIBIT (Kyiv Institute of Business and Technologies) 
+10.2002 y. - 03.2005 y.<br>
+Administrator computer club<br> 
+Entrepreneur Sabluk VK<br>
+
+### Education:
+
+1998 - 2003<br>
+Economist in finance<br>
+KIBIT (Kyiv Institute of Business and Technologies)<br>
 
 <!--
 **Setiuss/Setiuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
