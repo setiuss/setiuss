@@ -15,7 +15,7 @@ E-mail:<br>
 - Virtual Data Centers, VMware vSphere, ESXi
 - Windows Server, Linux
 - UniFi Network
-- Docker, Kubernetes
+- Git, Docker, Kubernetes
 - and more 😄
 
 ### Experience:
