@@ -2,8 +2,8 @@
 
 ## Oleksandr Zaspa
 *42 year old*<br>
-Phone:<br>
-E-mail:<br>
+Phone:🔭<br>
+E-mail:🔭<br>
 
 ### Skills:
 
@@ -15,8 +15,9 @@ E-mail:<br>
 - Virtual Data Centers, VMware vSphere, ESXi
 - Windows Server, Linux
 - UniFi Network
-- Git, Docker, Kubernetes
-- and more 😄
+- Git, Docker, [Kubernetes](https://certs.prometheus.org.ua/downloads/4e113a312e9b4d7fa1211e7fe35b9d18/Certificate.pdf)
+- [DevOps](https://certs.prometheus.org.ua/downloads/c62c8b0b3cd64e868592a9f05c5a6ee2/Certificate.pdf)
+- and more... 😄
 
 ### Experience:
 
@@ -46,7 +47,7 @@ Entrepreneur Sabluk VK<br>
 
 ### Education:
 
-1998 - 2003<br>
+1998 y. - 2003 y.<br>
 Economist in finance<br>
 KIBIT (Kyiv Institute of Business and Technologies)<br>
 
