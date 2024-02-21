@@ -7,7 +7,7 @@ E-mail:🔭<br>
 
 ### Skills:
 
-- MS AD, DNS, DHCP e.t.c.
+- MS DC
 - MS Echange
 - MS SQL
 - MS RDS
