@@ -20,6 +20,9 @@ E-mail:🔭<br>
 - and more... 😄
 
 ### Experience:
+01.2024 y. - present<br>
+Сontractor<br>
+Nexcore LLC<br>
 
 05.2018 y. - 09.2023 y.<br>
 Leading Infrastructure Solutions Specialist<br>
