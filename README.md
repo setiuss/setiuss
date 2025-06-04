@@ -16,7 +16,7 @@ E-mail:🔭<br>
 - Windows Server, Linux
 - UniFi Network
 - Git, Docker, [Kubernetes](https://certs.prometheus.org.ua/downloads/4e113a312e9b4d7fa1211e7fe35b9d18/Certificate.pdf)
-- [DevOps](https://certs.prometheus.org.ua/downloads/c62c8b0b3cd64e868592a9f05c5a6ee2/Certificate.pdf)
+- [DevOps a little ;) ](https://certs.prometheus.org.ua/downloads/c62c8b0b3cd64e868592a9f05c5a6ee2/Certificate.pdf)
 - and more... 😄
 
 ### Experience:
