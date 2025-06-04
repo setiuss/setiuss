@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Oleksandr Zaspa
-*42 year old*<br>
+## I'm Oleksandr Zaspa
+*44 year old*<br>
 Phone:🔭<br>
 E-mail:🔭<br>
 
